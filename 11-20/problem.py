@@ -108,6 +108,7 @@ for i in range(2,30):
             break
     else:
         print(i,"prime number")
+
 #17. Write a program to find the sum of natural numbers.
 num = int(input("Enter a natural number: "))
 sum = 0
